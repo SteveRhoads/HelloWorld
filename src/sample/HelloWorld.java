@@ -1,6 +1,5 @@
 package sample;
 
-// Test Comment
 
 public class HelloWorld {
 
